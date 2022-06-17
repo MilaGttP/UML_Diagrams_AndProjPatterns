@@ -1,4 +1,4 @@
-#UML_Diagrams
+#UML_Diagrams_AndProjPatterns
 
 #There is my UML diagrams and my realisation of designing patterns on this repository
 

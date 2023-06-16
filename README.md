@@ -1,4 +1,4 @@
-#UML_Diagrams_AndProjPatterns
+# UML_Diagrams_AndProjPatterns
 
 #У цьому сховищі присутні мої діаграми UML та моя реалізація патернів проєктування
 
